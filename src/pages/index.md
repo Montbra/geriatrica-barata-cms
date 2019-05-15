@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Geriátrica Barata
-image: /img/home-jumbotron.jpg
+image: /img/vellinhos-felizes.png
 heading: Geriátrica Barata
 subheading: Preços de farmácia popular sem ajuda do governo
 mainpitch:
